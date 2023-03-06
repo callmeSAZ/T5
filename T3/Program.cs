@@ -10,7 +10,7 @@ namespace T3
     {
         static void Main(string[] args)
         {
-            //جدا کردن یکان و دهگان 
+            //دریافت  ورودی و جدا کردن یکان و دهگان 
             
             int x = int.Parse(Console.ReadLine());
             int y,d;
